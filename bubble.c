@@ -27,7 +27,7 @@ void Bubble_sort( int t[],int l)
 				
 			}
 			
-			cout<<"\t"<< t[j]<< endl;
+			cout<<"\t Voici les etapes"<< t[j]<< endl;
 			
 		}
 	}
